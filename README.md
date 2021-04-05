@@ -1,3 +1,3 @@
-# Jogo Mata Moasquito 
+# Jogo Mata  Mosquito
 Feito em  Java, CSS, e java Script
 
